@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tempdbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="COLLAGE_MASTER">
+    <Key>
+      <PropertyRef Name="StdID" />
+    </Key>
+    <Property Name="StdID" Type="int" Nullable="false" />
+    <Property Name="StdName" Type="varchar" MaxLength="100" />
+    <Property Name="StdAddress" Type="varchar(max)" />
+    <Property Name="StdContactNo" Type="numeric" Precision="10" Scale="0" />
+  </EntityType>
+  <Function Name="SelectAllCOLLAGE_MASTER" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="tempdbModelStoreContainer">
+    <EntitySet Name="COLLAGE_MASTER" EntityType="Self.COLLAGE_MASTER" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

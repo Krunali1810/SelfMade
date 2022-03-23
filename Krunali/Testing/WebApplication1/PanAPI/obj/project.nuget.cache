@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDap7bMHssCqSDiO37Kk8XjOE5UyFIFNsleM2qqCvVe3OpiDYYRnRN/JC69ZslWOZRqI2i7SppyRQ9OygUfp9g==",
+  "success": true,
+  "projectFilePath": "E:\\Krunali\\Testing\\WebApplication1\\PanAPI\\PanAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krunali\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

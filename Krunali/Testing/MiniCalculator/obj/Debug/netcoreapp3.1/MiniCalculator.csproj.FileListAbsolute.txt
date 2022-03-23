@@ -1,0 +1,17 @@
+E:\Krunali\Testing\MiniCalculator\bin\Debug\netcoreapp3.1\MiniCalculator.exe
+E:\Krunali\Testing\MiniCalculator\bin\Debug\netcoreapp3.1\MiniCalculator.deps.json
+E:\Krunali\Testing\MiniCalculator\bin\Debug\netcoreapp3.1\MiniCalculator.runtimeconfig.json
+E:\Krunali\Testing\MiniCalculator\bin\Debug\netcoreapp3.1\MiniCalculator.runtimeconfig.dev.json
+E:\Krunali\Testing\MiniCalculator\bin\Debug\netcoreapp3.1\MiniCalculator.dll
+E:\Krunali\Testing\MiniCalculator\bin\Debug\netcoreapp3.1\MiniCalculator.pdb
+E:\Krunali\Testing\MiniCalculator\bin\Debug\netcoreapp3.1\Krunali Test.dll
+E:\Krunali\Testing\MiniCalculator\bin\Debug\netcoreapp3.1\Krunali Test.pdb
+E:\Krunali\Testing\MiniCalculator\obj\Debug\netcoreapp3.1\MiniCalculator.Form1.resources
+E:\Krunali\Testing\MiniCalculator\obj\Debug\netcoreapp3.1\MiniCalculator.csproj.GenerateResource.cache
+E:\Krunali\Testing\MiniCalculator\obj\Debug\netcoreapp3.1\MiniCalculator.AssemblyInfoInputs.cache
+E:\Krunali\Testing\MiniCalculator\obj\Debug\netcoreapp3.1\MiniCalculator.AssemblyInfo.cs
+E:\Krunali\Testing\MiniCalculator\obj\Debug\netcoreapp3.1\MiniCalculator.csproj.CoreCompileInputs.cache
+E:\Krunali\Testing\MiniCalculator\obj\Debug\netcoreapp3.1\MiniCalculator.csproj.CopyComplete
+E:\Krunali\Testing\MiniCalculator\obj\Debug\netcoreapp3.1\MiniCalculator.dll
+E:\Krunali\Testing\MiniCalculator\obj\Debug\netcoreapp3.1\MiniCalculator.pdb
+E:\Krunali\Testing\MiniCalculator\obj\Debug\netcoreapp3.1\MiniCalculator.genruntimeconfig.cache

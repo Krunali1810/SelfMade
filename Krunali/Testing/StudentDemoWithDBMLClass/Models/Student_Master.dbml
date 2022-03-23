@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Collage Master" Class="Student_MasterDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DIT-DESKTOP-SER;Initial Catalog=&quot;Collage Master&quot;;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="Collage_MasterConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Student_Master" Member="Student_Masters">
+    <Type Name="Student_Master" Id="ID1">
+      <Column Name="StdID" Type="System.Decimal" DbType="Decimal(10,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StdName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="StdContactNo" Type="System.Decimal" DbType="Decimal(10,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.SelectAllStudentMaster" Method="SelectAllStudentMaster">
+    <ElementType IdRef="ID1" />
+  </Function>
+</Database>

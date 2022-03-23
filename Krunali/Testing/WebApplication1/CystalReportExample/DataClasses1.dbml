@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Collage Master" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DIT-DESKTOP-SER;Initial Catalog=&quot;Collage Master&quot;;User ID=sa;MultipleActiveResultSets=True;Application Name=EntityFramework" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="Collage_MasterConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Country_Master" Member="Country_Masters">
+    <Type Name="Country_Master">
+      <Column Name="CountryId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Country" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="Country_Master_District_Master" Member="District_Masters" ThisKey="CountryId" OtherKey="CountryId" Type="District_Master" />
+      <Association Name="Country_Master_State_Master" Member="State_Masters" ThisKey="CountryId" OtherKey="CountryId" Type="State_Master" />
+    </Type>
+  </Table>
+  <Table Name="dbo.District_Master" Member="District_Masters">
+    <Type Name="District_Master">
+      <Column Name="DistrictId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CountryId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StateId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="District" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Association Name="Country_Master_District_Master" Member="Country_Master" ThisKey="CountryId" OtherKey="CountryId" Type="Country_Master" IsForeignKey="true" />
+      <Association Name="State_Master_District_Master" Member="State_Master" ThisKey="StateId" OtherKey="StateId" Type="State_Master" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.State_Master" Member="State_Masters">
+    <Type Name="State_Master">
+      <Column Name="StateId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CountryId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="State" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="State_Master_District_Master" Member="District_Masters" ThisKey="StateId" OtherKey="StateId" Type="District_Master" />
+      <Association Name="Country_Master_State_Master" Member="Country_Master" ThisKey="CountryId" OtherKey="CountryId" Type="Country_Master" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.CountrySelectAll" Method="CountrySelectAll">
+    <ElementType Name="CountrySelectAllResult">
+      <Column Name="Country" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

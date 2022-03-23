@@ -1,0 +1,318 @@
+Lakhpat
+Rapar
+Bhachau
+Anjar
+Bhuj
+Nakhatrana
+Abdasa
+Mandvi
+Mundra
+Gandhidham
+Vav
+Tharad
+Dhanera
+Dantiwada
+Amirgadh
+Danta
+Vadgam
+Palanpur
+Deesa
+Deodar
+Bhabhar
+Kankrej
+Santalpur
+Radhanpur
+Sidhpur
+Patan
+Harij
+Sami
+Chanasma
+Satlasana
+Kheralu
+Unjha
+Visnagar
+Vadnagar
+Vijapur
+Mahesana
+Becharaji
+Kadi
+Khedbrahma
+Vijaynagar
+Vadali
+Idar
+Bhiloda
+Meghraj
+Himatnagar
+Prantij
+Talod
+Modasa
+Dhansura
+Malpur
+Bayad
+Kalol Gandhinagar
+Mansa
+Gandhinagar
+Dehgam
+Mandal
+Detroj-Rampura
+Viramgam
+Sanand
+Sabarmati
+Daskroi
+Dholka
+Bavla
+Ranpur
+Barwala
+Dhandhuka
+Halvad
+Dhrangadhra
+Dasada
+Lakhtar
+Wadhwan
+Muli
+Chotila
+Sayla
+Chuda
+Limbdi
+Maliya
+Morvi
+Tankara
+Wankaner
+Paddhari
+Rajkot
+Lodhika
+Kotda Sangani
+Jasdan
+Gondal
+Jamkandorna
+Upleta
+Dhoraji
+Jetpur
+Okhamandal
+Khambhalia
+Jamnagar Rural
+Jodiya
+Dhrol
+Kalavad
+Lalpur
+Kalyanpur
+Bhanvad
+Jamjodhpur
+Porbandar
+Ranavav
+Kutiyana
+Manavadar
+Vanthali
+Junagadh
+Bhesan
+Visavadar
+Mendarda
+Keshod
+Mangrol
+Malia Hatina
+Talala
+Patan-Veraval
+Sutrapada
+Kodinar
+Una
+Kunkavav Vadia
+Babra
+Lathi
+Lilia
+Amreli
+Bagasara
+Dhari
+Savar Kundla
+Khambha
+Jafrabad
+Rajula
+Botad
+Vallabhipur
+Gadhada
+Umrala
+Bhavnagar
+Ghogha
+Sihor
+Gariadhar
+Palitana
+Talaja
+Mahuva
+Tarapur
+Sojitra
+Umreth
+Anand Rural
+Petlad
+Khambhat
+Borsad
+Anklav
+Kapadvanj
+Virpur
+Balasinor
+Kathlal
+Mehmedabad
+Kheda
+Matar
+Nadiad
+Mahudha
+Thasra
+Khanpur
+Kadana
+Santrampur
+Lunawada
+Shehera
+Morwa (Hadaf)
+Godhra
+Kalol
+Ghoghamba
+Halol
+Jambughoda
+Fatepura
+Jhalod
+Limkheda
+Dohad
+Garbada
+Devgadbaria
+Dhanpur
+Savli
+Vadodara Rural
+Vaghodia
+Jetpur Pavi
+Chhota Udaipur
+Kavant
+Nasvadi
+Sankheda
+Dabhoi
+Padra
+Karjan
+Sinor
+Tilakwada
+Nandod
+Dediapada
+Sagbara
+Jambusar
+Amod
+Vagra
+Bharuch
+Jhagadia
+Anklesvar
+Hansot
+Valia
+Ahwa
+Navsari
+Jalalpore
+Gandevi
+Chikhli
+Bansda
+Valsad
+Dharampur
+Pardi
+Kaprada
+Umbergaon
+Olpad
+Mangrol
+Umarpada
+Mandvi surat
+Kamrej
+Majura
+Chorasi
+Palsana
+Bardoli
+Mahuva
+Nizar
+Uchchhal
+Songadh
+Vyara
+Valod
+BODELI
+Jotana
+Waghai
+Subir
+Galteshwar
+GARUDESHWAR
+VAPI
+Vaso
+DESAR
+Thangadh
+POSHINA
+SUIGAM
+Dholera
+Lakhani
+Kukarmunda
+Netrang
+Khergam
+Saraswati
+Shankheshvar
+Vinchchiya
+Gir Gadhda
+Dolvan
+Jesar
+Sanjeli
+Singvad
+Asarva
+Ghatlodiya
+Vejalpur
+Maninagar
+Vatva
+Junagadh City
+Adajan
+Katargam
+RAJKOT EAST
+Puna
+Udhna
+RAJKOT WEST
+RAJKOT SOUTH
+Jamnagar City
+Vadodara South
+Vadodara North
+Vadodara West
+Vadodara East
+Anand City
+Nadiad City
+Gota Ahmedabad (M.Corp.) Ward No. 1
+Chandlodiya Ahmedabad (M.Corp.) Ward No. 2
+Chandkheda Ahmedabad (M.Corp.) Ward No. 3
+Sabarmati Ahmedabad (M.Corp.) Ward No. 4
+Ranip Ahmedabad (M.Corp.) Ward No. 5
+Nava Vadaj Ahmedabad (M.Corp.) Ward No. 6
+Ghatlodiya Ahmedabad (M.Corp.) Ward No. 7
+Thaltej Ahmedabad (M.Corp.) Ward No. 8
+Naranpura Ahmedabad (M.Corp.) Ward No. 9
+Sardar Patel Stadium Ahmedabad (M.Corp.) Ward No. 10
+Sardarnagar Ahmedabad (M.Corp.) Ward No. 11
+Naroda Ahmedabad (M.Corp.) Ward No. 12
+Saijpur Bogha Ahmedabad (M.Corp.) Ward No. 13
+Kubernagar Ahmedabad (M.Corp.) Ward No. 14
+Asarva Ahmedabad (M.Corp.) Ward No. 15
+Shahibag Ahmedabad (M.Corp.) Ward No. 16
+Shapur Ahmedabad (M.Corp.) Ward No. 17
+Navrangpura Ahmedabad (M.Corp.) Ward No. 18
+Bodakdev Ahmedabad (M.Corp.) Ward No. 19
+Jodhpur Ahmedabad (M.Corp.) Ward No. 20
+Dariyapur Ahmedabad (M.Corp.) Ward No. 21
+India colony Ahmedabad (M.Corp.) Ward No. 22
+Thakkarbapa Nagar Ahmedabad (M.Corp.) Ward No. 23
+Nikol Ahmedabad (M.Corp.) Ward No. 24
+viratnagar Ahmedabad (M.Corp.) Ward No. 25
+Bapurnagar Ahmedabad (M.Corp.) Ward No. 26
+Sarsapur Rakhiyal Ahmedabad (M.Corp.) Ward No. 27
+Khadiya Ahmedabad (M.Corp.) Ward No. 28
+Jamalpur Ahmedabad (M.Corp.) Ward No. 29
+Paldi Ahmedabad (M.Corp.) Ward No. 30
+Vasana Ahmedabad (M.Corp.) Ward No. 31
+Vejalpur Ahmedabad (M.Corp.) Ward No. 32
+Vejalpur Ahmedabad (M.Corp.) Ward No. 33
+Maktampura Ahmedabad (M.Corp.) Ward No. 34
+Baherampura Ahmedabad (M.Corp.) Ward No. 35
+Danilimda Ahmedabad (M.Corp.) Ward No. 36
+Maninagar Ahmedabad (M.Corp.) Ward No. 37
+Gomtipur Ahmedabad (M.Corp.) Ward No. 38
+Amraivadi Ahmedabad (M.Corp.) Ward No. 39
+Odhav Ahmedabad (M.Corp.) Ward No. 40
+Vastral Ahmedabad (M.Corp.) Ward No. 41
+Indrapuri Ahmedabad (M.Corp.) Ward No. 42
+Bhaipura Hatkeswar Ahmedabad (M.Corp.) Ward No. 43
+Khokhra Ahmedabad (M.Corp.) Ward No. 44
+Isanpur Ahmedabad (M.Corp.) Ward No. 45
+Lambha Ahmedabad (M.Corp.) Ward No. 46
+Vatava Ahmedabad (M.Corp.) Ward No. 47
+Ramol Hathijan Ahmedabad (M.Corp.) Ward No. 48

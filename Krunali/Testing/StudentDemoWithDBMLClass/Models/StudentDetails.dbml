@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="tempdb" Class="StudentDetailsDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DIT-DESKTOP-SER;Initial Catalog=tempdb;User ID=sa;MultipleActiveResultSets=True;Application Name=EntityFramework" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="tempdbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.COLLAGE_MASTER" Member="COLLAGE_MASTERs">
+    <Type Name="COLLAGE_MASTER" Id="ID1">
+      <Column Name="StdID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StdName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="StdAddress" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="StdContactNo" Type="System.Decimal" DbType="Decimal(10,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.SelectAllCOLLAGE_MASTER" Method="SelectAllCOLLAGE_MASTER">
+    <ElementType IdRef="ID1" />
+  </Function>
+</Database>

@@ -1,0 +1,33 @@
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\API Service.exe
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\API Service.deps.json
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\API Service.runtimeconfig.json
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\API Service.runtimeconfig.dev.json
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\API Service.dll
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\API Service.pdb
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\microsoft.identitymodel.dll
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.AssemblyInfoInputs.cache
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.AssemblyInfo.cs
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.csproj.CoreCompileInputs.cache
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.MvcApplicationPartsAssemblyInfo.cache
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\staticwebassets\API Service.StaticWebAssets.Manifest.cache
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\staticwebassets\API Service.StaticWebAssets.xml
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\scopedcss\bundle\API Service.styles.css
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.RazorTargetAssemblyInfo.cache
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.csproj.CopyComplete
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.dll
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.pdb
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.genruntimeconfig.cache
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\API Service.Views.dll
+E:\Krunali\Testing\WebApplication1\API Service\bin\Debug\netcoreapp3.1\API Service.Views.pdb
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.RazorAssemblyInfo.cache
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.RazorAssemblyInfo.cs
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.TagHelpers.input.cache
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.TagHelpers.output.cache
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.RazorCoreGenerate.cache
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\Razor\Index.cshtml.g.cs
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.RazorTargetAssemblyInfo.cs
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.Views.pdb
+E:\Krunali\Testing\WebApplication1\API Service\obj\Debug\netcoreapp3.1\API Service.csprojAssemblyReference.cache

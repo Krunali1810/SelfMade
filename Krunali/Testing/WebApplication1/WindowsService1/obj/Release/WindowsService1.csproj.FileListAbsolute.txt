@@ -1,0 +1,9 @@
+E:\Krunali\Testing\WebApplication1\WindowsService1\bin\Release\WindowsService1.exe.config
+E:\Krunali\Testing\WebApplication1\WindowsService1\bin\Release\WindowsService1.exe
+E:\Krunali\Testing\WebApplication1\WindowsService1\bin\Release\WindowsService1.pdb
+E:\Krunali\Testing\WebApplication1\WindowsService1\obj\Release\WindowsService1.csprojAssemblyReference.cache
+E:\Krunali\Testing\WebApplication1\WindowsService1\obj\Release\WindowsService1.csproj.CoreCompileInputs.cache
+E:\Krunali\Testing\WebApplication1\WindowsService1\obj\Release\WindowsService1.exe
+E:\Krunali\Testing\WebApplication1\WindowsService1\obj\Release\WindowsService1.pdb
+E:\Krunali\Testing\WebApplication1\WindowsService1\obj\Release\WindowsService1.ProjectInstaller.resources
+E:\Krunali\Testing\WebApplication1\WindowsService1\obj\Release\WindowsService1.csproj.GenerateResource.cache

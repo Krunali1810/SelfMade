@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="tempdbModelStoreContainer" CdmEntityContainer="tempdbEntities3">
+    <EntitySetMapping Name="COLLAGE_MASTER">
+      <EntityTypeMapping TypeName="tempdbModel.COLLAGE_MASTER">
+        <MappingFragment StoreEntitySet="COLLAGE_MASTER">
+          <ScalarProperty Name="StdID" ColumnName="StdID" />
+          <ScalarProperty Name="StdName" ColumnName="StdName" />
+          <ScalarProperty Name="StdAddress" ColumnName="StdAddress" />
+          <ScalarProperty Name="StdContactNo" ColumnName="StdContactNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SelectAllCOLLAGE_MASTER" FunctionName="tempdbModel.Store.SelectAllCOLLAGE_MASTER">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="tempdbModel.SelectAllCOLLAGE_MASTER_Result">
+          <ScalarProperty Name="StdID" ColumnName="StdID" />
+          <ScalarProperty Name="StdName" ColumnName="StdName" />
+          <ScalarProperty Name="StdAddress" ColumnName="StdAddress" />
+          <ScalarProperty Name="StdContactNo" ColumnName="StdContactNo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

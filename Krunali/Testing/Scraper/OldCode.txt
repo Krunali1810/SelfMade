@@ -1,0 +1,17 @@
+﻿ 'http web request to get data
+                    '==================================
+
+                    'Dim request1 As HttpWebRequest = CType(WebRequest.Create(str), HttpWebRequest)
+                    'request1.MaximumAutomaticRedirections = 4
+                    'request1.MaximumResponseHeadersLength = 4
+                    'request1.AllowAutoRedirect = True
+                    'request1.Credentials = CredentialCache.DefaultCredentials
+                    'request1.Headers.Add("Origin", "https://stevemorse.org")
+                    'Dim response As HttpWebResponse = CType(request1.GetResponse(), HttpWebResponse)
+                    'Dim receiveStream As Stream = response.GetResponseStream()
+                    'Dim readStream As New StreamReader(receiveStream, Encoding.UTF8)
+                    'sr = readStream.ReadToEnd()
+                    'sr = WebUtility.HtmlDecode(sr)
+                    'response.Close()
+                    'readStream.Close()
+

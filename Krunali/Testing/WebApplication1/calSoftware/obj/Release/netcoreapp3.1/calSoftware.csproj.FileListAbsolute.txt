@@ -1,0 +1,15 @@
+E:\Krunali\Testing\WebApplication1\calSoftware\bin\Release\netcoreapp3.1\calSoftware.exe
+E:\Krunali\Testing\WebApplication1\calSoftware\bin\Release\netcoreapp3.1\calSoftware.deps.json
+E:\Krunali\Testing\WebApplication1\calSoftware\bin\Release\netcoreapp3.1\calSoftware.runtimeconfig.json
+E:\Krunali\Testing\WebApplication1\calSoftware\bin\Release\netcoreapp3.1\calSoftware.runtimeconfig.dev.json
+E:\Krunali\Testing\WebApplication1\calSoftware\bin\Release\netcoreapp3.1\calSoftware.dll
+E:\Krunali\Testing\WebApplication1\calSoftware\bin\Release\netcoreapp3.1\calSoftware.pdb
+E:\Krunali\Testing\WebApplication1\calSoftware\obj\Release\netcoreapp3.1\calSoftware.csprojAssemblyReference.cache
+E:\Krunali\Testing\WebApplication1\calSoftware\obj\Release\netcoreapp3.1\calSoftware.Form1.resources
+E:\Krunali\Testing\WebApplication1\calSoftware\obj\Release\netcoreapp3.1\calSoftware.csproj.GenerateResource.cache
+E:\Krunali\Testing\WebApplication1\calSoftware\obj\Release\netcoreapp3.1\calSoftware.AssemblyInfoInputs.cache
+E:\Krunali\Testing\WebApplication1\calSoftware\obj\Release\netcoreapp3.1\calSoftware.AssemblyInfo.cs
+E:\Krunali\Testing\WebApplication1\calSoftware\obj\Release\netcoreapp3.1\calSoftware.csproj.CoreCompileInputs.cache
+E:\Krunali\Testing\WebApplication1\calSoftware\obj\Release\netcoreapp3.1\calSoftware.dll
+E:\Krunali\Testing\WebApplication1\calSoftware\obj\Release\netcoreapp3.1\calSoftware.pdb
+E:\Krunali\Testing\WebApplication1\calSoftware\obj\Release\netcoreapp3.1\calSoftware.genruntimeconfig.cache

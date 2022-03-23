@@ -1,0 +1,17 @@
+E:\Krunali\Testing\WebApplication1\IPChecking\bin\Debug\netcoreapp3.1\IPChecking.exe
+E:\Krunali\Testing\WebApplication1\IPChecking\bin\Debug\netcoreapp3.1\IPChecking.deps.json
+E:\Krunali\Testing\WebApplication1\IPChecking\bin\Debug\netcoreapp3.1\IPChecking.runtimeconfig.json
+E:\Krunali\Testing\WebApplication1\IPChecking\bin\Debug\netcoreapp3.1\IPChecking.runtimeconfig.dev.json
+E:\Krunali\Testing\WebApplication1\IPChecking\bin\Debug\netcoreapp3.1\IPChecking.dll
+E:\Krunali\Testing\WebApplication1\IPChecking\bin\Debug\netcoreapp3.1\IPChecking.pdb
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.csprojAssemblyReference.cache
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.Form1.resources
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.csproj.GenerateResource.cache
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.AssemblyInfoInputs.cache
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.AssemblyInfo.cs
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.csproj.CoreCompileInputs.cache
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.dll
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.pdb
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.genruntimeconfig.cache
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.CheckBoxExp.resources
+E:\Krunali\Testing\WebApplication1\IPChecking\obj\Debug\netcoreapp3.1\IPChecking.Properties.Resources.resources

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Krunali Test", "Krunali Test.csproj", "{56FCF474-0B03-4A27-9DDE-722FF462C496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCalculator", "..\MiniCalculator\MiniCalculator.csproj", "{30F08BC5-C961-4D8C-9ACF-AD6F7C16F64A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FCF474-0B03-4A27-9DDE-722FF462C496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FCF474-0B03-4A27-9DDE-722FF462C496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FCF474-0B03-4A27-9DDE-722FF462C496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FCF474-0B03-4A27-9DDE-722FF462C496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F08BC5-C961-4D8C-9ACF-AD6F7C16F64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F08BC5-C961-4D8C-9ACF-AD6F7C16F64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F08BC5-C961-4D8C-9ACF-AD6F7C16F64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F08BC5-C961-4D8C-9ACF-AD6F7C16F64A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AB3461C-EA01-4B34-9204-63781B99E5A3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+Civil Hospital, Ahmedabad,23.051502405223516,72.60522349716042
+SSG Hospital, Vadodara,22.30638742066684,73.19084657013974
+New Civil Hospital and Medical College, Surat,21.17805727047366,72.82025235535274
+Sir T General Hospital, Bhavnagar,21.76738763590232,72.14235626529076
+PDU Hospital, Rajkot,22.307315127256775,70.79840231313388
+GGG Hospital, Jamnagar,22.478355213309367,70.06391149510468
+GMERS Medical College attached Hospital, Patan,23.84558530771241,72.19130771651933
+GMERS Medical College attached Hospital, Himmatnagar,23.575232679681218,72.96741223496444
+GMERS Medical College attached Hospital, gandhinagar,23.2174371814369,72.64004218600198
+GMERS Medical College attached Hospital, sola, ahmedabad,23.082775131974046,72.52488658521033
+GMERS Medical College attached Hospital, gotri, vadodara,22.312600039160802,73.14889718857691
+GMERS Medical College attached Hospital, valsad,20.593059096896813,72.92059151432015
+GMERS Medical College attached Hospital, junagadh,21.535074209370386,70.46223452500502
+GMERS Medical College attached Hospital, vadnagar,23.790657800104785,72.63778808896593
+SMIMER, Surat,21.195777239002634,72.84580446027432
+NHL,Municipal medical college ahmedababd,23.01866152027491,72.57132767799607
+AMCMET Medical college ahmedabad,22.99838600844647,72.60412350464279
+GCS medical college and research centre,23.038651355680383,72.61097198697115
+Pramukhswami medical college Karamsad,22.53960677191984,72.89063819744267
+Dr. M.K. Shah Medical College & Research Centre, Ahmedabad,23.116656015164526,72.60723370103763
+Gujarat Adani Institute of Medical Sciences, Bhuj,23.241356921006425,69.6767161650958
+CU shah medical college, Surendranagar,22.741569982649203,71.62169795757664
+Parul institute of medical science and research,22.292479113740246,73.36689898573015
+Banas medical college and research institute, Palanpur,24.175170081937708,72.43472240563004
+Zydus Medical college and hospital, Dahod,22.8097407,74.2257527
+Dr ND Desai faculty of medical science and research, nadiad,22.681646264007508,72.87939448775629
+Nootan Medical college and research centre, Visnagar,23.683080883846568,72.54776180301033
+Santaba medical college, Amreli,21.608480903381707,71.22177132208243
+BK Shah medical college attached Dhiraj hospital , Waghodia,22.2908393,73.3229752
+Dr.Kiran.C. Patel Medical College & Research Institute, Bharuch,21.706006339940387,72.98905202757831
+GCRI Ahmedabad ,23.05095556865811,72.60722052652457
+IKDRC Ahmedabad,23.0490575274653,72.6084591985101
+UNMICRC Ahmedabad,23.052099483079505,72.60089253144476

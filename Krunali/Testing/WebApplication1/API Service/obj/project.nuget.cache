@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDIyKLb8LDudKJMxu3AB/enN6Kc9WLI9TbhtazD3Ix1CrFfpBc89IxgYGTRLiHBnZe6sjFpmWR8KGT/nCPHbTg==",
+  "success": true,
+  "projectFilePath": "E:\\Krunali\\Testing\\WebApplication1\\API Service\\API Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krunali\\.nuget\\packages\\microsoft.identitymodel\\7.0.0\\microsoft.identitymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\Krunali\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.IdentityModel 7.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.IdentityModel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

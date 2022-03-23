@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="tempdbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="COLLAGE_MASTER">
+          <Key>
+            <PropertyRef Name="StdID" />
+          </Key>
+          <Property Name="StdID" Type="int" Nullable="false" />
+          <Property Name="StdName" Type="varchar" MaxLength="100" />
+          <Property Name="StdAddress" Type="varchar(max)" />
+          <Property Name="StdContactNo" Type="numeric" Precision="10" Scale="0" />
+        </EntityType>
+        <Function Name="SelectAllCOLLAGE_MASTER" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <EntityContainer Name="tempdbModelStoreContainer">
+          <EntitySet Name="COLLAGE_MASTER" EntityType="Self.COLLAGE_MASTER" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="tempdbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="COLLAGE_MASTER">
+          <Key>
+            <PropertyRef Name="StdID" />
+          </Key>
+          <Property Name="StdID" Type="Int32" Nullable="false" />
+          <Property Name="StdName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="StdAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="StdContactNo" Type="Decimal" Precision="10" Scale="0" />
+        </EntityType>
+        <EntityContainer Name="tempdbEntities3" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="COLLAGE_MASTER" EntityType="Self.COLLAGE_MASTER" />
+          <FunctionImport Name="SelectAllCOLLAGE_MASTER" ReturnType="Collection(tempdbModel.SelectAllCOLLAGE_MASTER_Result)" />
+        </EntityContainer>
+        <ComplexType Name="SelectAllCOLLAGE_MASTER_Result">
+          <Property Type="Int32" Name="StdID" Nullable="false" />
+          <Property Type="String" Name="StdName" Nullable="true" MaxLength="100" />
+          <Property Type="String" Name="StdAddress" Nullable="true" />
+          <Property Type="Decimal" Name="StdContactNo" Nullable="true" Precision="10" Scale="0" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="tempdbModelStoreContainer" CdmEntityContainer="tempdbEntities3">
+          <EntitySetMapping Name="COLLAGE_MASTER">
+            <EntityTypeMapping TypeName="tempdbModel.COLLAGE_MASTER">
+              <MappingFragment StoreEntitySet="COLLAGE_MASTER">
+                <ScalarProperty Name="StdID" ColumnName="StdID" />
+                <ScalarProperty Name="StdName" ColumnName="StdName" />
+                <ScalarProperty Name="StdAddress" ColumnName="StdAddress" />
+                <ScalarProperty Name="StdContactNo" ColumnName="StdContactNo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="SelectAllCOLLAGE_MASTER" FunctionName="tempdbModel.Store.SelectAllCOLLAGE_MASTER">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="tempdbModel.SelectAllCOLLAGE_MASTER_Result">
+                <ScalarProperty Name="StdID" ColumnName="StdID" />
+                <ScalarProperty Name="StdName" ColumnName="StdName" />
+                <ScalarProperty Name="StdAddress" ColumnName="StdAddress" />
+                <ScalarProperty Name="StdContactNo" ColumnName="StdContactNo" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,9 @@
+E:\Krunali\Testing\Krunali Test\bin\Debug\netcoreapp3.1\Krunali Test.deps.json
+E:\Krunali\Testing\Krunali Test\bin\Debug\netcoreapp3.1\Krunali Test.dll
+E:\Krunali\Testing\Krunali Test\bin\Debug\netcoreapp3.1\Krunali Test.pdb
+E:\Krunali\Testing\Krunali Test\obj\Debug\netcoreapp3.1\Krunali Test.AssemblyInfoInputs.cache
+E:\Krunali\Testing\Krunali Test\obj\Debug\netcoreapp3.1\Krunali Test.AssemblyInfo.cs
+E:\Krunali\Testing\Krunali Test\obj\Debug\netcoreapp3.1\Krunali Test.csproj.CoreCompileInputs.cache
+E:\Krunali\Testing\Krunali Test\obj\Debug\netcoreapp3.1\Krunali Test.dll
+E:\Krunali\Testing\Krunali Test\obj\Debug\netcoreapp3.1\Krunali Test.pdb
+E:\Krunali\Testing\Krunali Test\obj\Debug\netcoreapp3.1\Krunali Test.csprojAssemblyReference.cache

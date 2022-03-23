@@ -1,0 +1,9 @@
+E:\Krunali\Testing\WebApplication1\PanAPI\bin\Debug\netcoreapp3.1\PanAPI.deps.json
+E:\Krunali\Testing\WebApplication1\PanAPI\bin\Debug\netcoreapp3.1\PanAPI.dll
+E:\Krunali\Testing\WebApplication1\PanAPI\bin\Debug\netcoreapp3.1\PanAPI.pdb
+E:\Krunali\Testing\WebApplication1\PanAPI\obj\Debug\netcoreapp3.1\PanAPI.AssemblyInfoInputs.cache
+E:\Krunali\Testing\WebApplication1\PanAPI\obj\Debug\netcoreapp3.1\PanAPI.AssemblyInfo.cs
+E:\Krunali\Testing\WebApplication1\PanAPI\obj\Debug\netcoreapp3.1\PanAPI.csproj.CoreCompileInputs.cache
+E:\Krunali\Testing\WebApplication1\PanAPI\obj\Debug\netcoreapp3.1\PanAPI.dll
+E:\Krunali\Testing\WebApplication1\PanAPI\obj\Debug\netcoreapp3.1\PanAPI.pdb
+E:\Krunali\Testing\WebApplication1\PanAPI\obj\Debug\netcoreapp3.1\PanAPI.csprojAssemblyReference.cache

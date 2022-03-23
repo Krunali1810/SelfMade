@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tempdbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="COLLAGE_MASTER">
+    <Key>
+      <PropertyRef Name="StdID" />
+    </Key>
+    <Property Name="StdID" Type="Int32" Nullable="false" />
+    <Property Name="StdName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="StdAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="StdContactNo" Type="Decimal" Precision="10" Scale="0" />
+  </EntityType>
+  <EntityContainer Name="tempdbEntities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="COLLAGE_MASTER" EntityType="Self.COLLAGE_MASTER" />
+    <FunctionImport Name="SelectAllCOLLAGE_MASTER" ReturnType="Collection(tempdbModel.SelectAllCOLLAGE_MASTER_Result)" />
+  </EntityContainer>
+  <ComplexType Name="SelectAllCOLLAGE_MASTER_Result">
+    <Property Type="Int32" Name="StdID" Nullable="false" />
+    <Property Type="String" Name="StdName" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="StdAddress" Nullable="true" />
+    <Property Type="Decimal" Name="StdContactNo" Nullable="true" Precision="10" Scale="0" />
+  </ComplexType>
+</Schema>
